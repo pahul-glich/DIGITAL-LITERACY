@@ -1,8 +1,8 @@
 # Task 4 – Professional Email & Digital Communication Etiquette
 
 ## Student Details
-- **Name:** YOUR_NAME
-- **Registration Number:** YOUR_REG_NO
+- **Name:** PAHUL KAUR
+- **Registration Number:** 25BSA10044
 - **Branch:** B.Tech CSE
 - **Year:** First Year
 
